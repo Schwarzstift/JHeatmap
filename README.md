@@ -17,3 +17,4 @@ Shown are ball possessions in a real RoboCup Small Size League Game.
  
 ![Heatmap Example](./HeatmapExample.png "Heatmap example")
 
+[![](https://jitpack.io/v/Schwarzstift/JHeatmap.svg)](https://jitpack.io/#Schwarzstift/JHeatmap)
